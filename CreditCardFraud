@@ -451,7 +451,7 @@
         "id": "nNJVTzmyd21z",
         "outputId": "2dc14c27-9bb0-4a2c-d33b-2903b75c015c"
       },
-      "execution_count": null,
+      "execution_count": 24,
       "outputs": [
         {
           "output_type": "stream",
@@ -481,7 +481,8 @@
             "\u001b[34m  Local URL: \u001b[0m\u001b[1mhttp://localhost:8501\u001b[0m\n",
             "\u001b[34m  Network URL: \u001b[0m\u001b[1mhttp://172.28.0.12:8501\u001b[0m\n",
             "\u001b[34m  External URL: \u001b[0m\u001b[1mhttp://34.168.202.210:8501\u001b[0m\n",
-            "\u001b[0m\n"
+            "\u001b[0m\n",
+            "\u001b[34m  Stopping...\u001b[0m\n"
           ]
         }
       ]
